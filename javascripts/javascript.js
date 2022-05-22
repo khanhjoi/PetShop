@@ -42,23 +42,23 @@ btnActives.forEach(function(btn) {
 var Cats = [
     {
         name : 'British shorthair',
-        img : './images/cat/pexels-leonardo-de-oliveira-1770918.jpg',
+        img : 'images/cat/pexels-leonardo-de-oliveira-1770918.jpg',
     },
     {
         name : 'Tabby cat',
-        img : './images/cat/pexels-evg-kowalievska-1170986.jpg',
+        img : 'images/cat/pexels-evg-kowalievska-1170986.jpg',
     },
     {
         name : 'Japanese Bobtail',
-        img : './images/cat/pexels-just-a-couple-photos-3777622.jpg',
+        img : 'images/cat/pexels-just-a-couple-photos-3777622.jpg',
     },
     {
         name : 'Exotic shorthair',
-        img : './images/cat/pexels-orlando-allo-3423805.jpg',
+        img : 'images/cat/pexels-orlando-allo-3423805.jpg',
     },
     {
         name : 'Sphynx',
-        img : './images/cat/pexels-наталья-семенкова-991831.jpg',
+        img : 'images/cat/pexels-наталья-семенкова-991831.jpg',
     },
     
 ];
@@ -66,23 +66,23 @@ var Cats = [
 var Dogs = [
     {
         name : 'Husky',
-        img : './images/dog/husky.jpg',
+        img : 'images/dog/husky.jpg',
     },
     {
         name : 'Berger',
-        img : './images/dog/Berger.jpg',
+        img : 'images/dog/Berger.jpg',
     },
     {
         name : 'Shiba Inu',
-        img : './images/dog/ShibaInu.jpg',
+        img : 'images/dog/ShibaInu.jpg',
     },
     {
         name : 'Dachshund',
-        img : './images/dog/Dachshund.jpg',
+        img : 'images/dog/Dachshund.jpg',
     },
     {
         name : 'Boxer',
-        img : './images/dog/Boxer.jpg',
+        img : 'images/dog/Boxer.jpg',
     },
     
 ];
